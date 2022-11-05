@@ -1,0 +1,5 @@
+- Hello! My name is Coriander and I am currently a third year CS student at university.
+- I am taking the next step in my CS education by working on my own projects!
+- The languages I have the most experience with are C and C++ but I am looking to expand by language library with other useful languages.
+- My goals, at least in the short term, are to work on projects that will improve my quality of life and move from CLI to more user-friendly interfaces.
+- Feel free to reach out if you have an advice or promising projects! Thank you c:
